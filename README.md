@@ -26,7 +26,7 @@ I'm a **PHP Laravel and Vue.js Developer** with a strong focus on **ERP system d
 - 📧 Email: **sapariyasunny0@gmail.com**  
 - 🔗 LinkedIn: [Sunny Sapariya](https://www.linkedin.com/in/sunny-sapariya-924a99329/)  
 - 🌐 GitHub: [@sapariyasunny0](https://github.com/sapariyasunny0)
-- 🌐 Website : [Sunny Sapariya]](https://sunnysapariya.com/#)
+- 🌐 Website : [Sunny Sapariya](https://sunnysapariya.com/)
 
 ### ⚡ Fun Fact  
 I’m always exploring **new tech stacks** and **optimizing workflows** for efficiency. I love working on **complex problem-solving** and sharing my knowledge with the **developer community**!  
