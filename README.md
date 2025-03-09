@@ -1,5 +1,3 @@
-Here's a detailed professional introduction for you based on your expertise and interests:  
-
 ## Hi there! 👋 I'm Sunny Sapariya  
 
 ### 🚀 About Me  
